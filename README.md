@@ -49,8 +49,8 @@ All weekly notes and references are stored under `/notes/` organized by week/top
 
 ## 📈 Certification Prep
 
-- Oracle 1Z0-909: ✅ Preparing
-- AWS Certified Database Specialty: 🔄 In Progress
+- MySQL Implementation Associate 1Z0-922 -: ✅ Done
+- MySQL 8.0 for Database Administrators: 🔄 In Progress
 
 ---
 
